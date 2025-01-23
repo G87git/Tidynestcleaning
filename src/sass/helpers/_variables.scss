@@ -1,0 +1,38 @@
+/*---------------------------
+	Fonts
+----------------------------*/
+@import url("https://fonts.googleapis.com/css?family=Muli:400,400i,600,700,800&display=swap");
+
+// fonts
+$base-font-size: 15;
+$base-font: "Muli", sans-serif;
+$heading-font: "Muli", sans-serif;
+
+
+
+
+// color
+$dark-gray: #13287e;
+$body-color: #4c5165;
+$white: #fff;
+$light: #8188a9;
+$black: #000;
+$cyan: #848892;
+
+// Updated color palette
+$theme-primary-color: #FF5A5F; // Coral red
+$theme-primary-color-s2: #3E7A80; // Muted teal (complementary)
+$secondary-color: #FFEFEF; // Soft pastel coral
+$accent-color: #FFB400; // Warm gold (harmonious accent)
+$neutral-color: #F4F4F4; // Neutral light gray
+$highlight-color: #274472; // Deep navy blue (contrast)
+
+// Backgrounds and text
+$body-bg-color: #FFFFFF;
+$section-bg-color: #F6F9FB; // Slightly adjusted light tone
+$text-color: #4C4C4C; // Neutral darker gray for readability
+$text-light-color: #2C3147;
+$heading-color: $dark-gray;
+$border-color: #E1E1E1;
+$border-color-s2: #D8E0F1;
+
