@@ -1,7 +1,7 @@
 {
-  "name": "cleener",
+  "name": "tidynestcleaning",
   "version": "0.1.0",
-  "homepage": "http://cleener-react.wpocean.com",
+  "homepage": "https://tidynestcleaning.co.uk",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
